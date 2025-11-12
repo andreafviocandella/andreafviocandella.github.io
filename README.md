@@ -1,8 +1,3 @@
-# Create a self-contained HTML file for the Body & Fitness Calculator
-# Includes: TailwindCSS (CDN), React 18 (CDN), ReactDOM (CDN), Babel (for JSX),
-# html2canvas & jsPDF (CDN) for PDF export. 
-# App code is vanilla JS/JSX (no TypeScript) and embedded directly.
-
 html = r"""<!DOCTYPE html>
 <html lang="id">
   <head>
